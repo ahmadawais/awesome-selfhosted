@@ -89,7 +89,7 @@ See also [Static Site Generators](#static-site-generators) and  [Content Managem
   * [Known](https://withknown.com/opensource/) - A single website for all your content `Apache` `PHP`
   * [Noddity](http://noddity.com/) - It's a blog, it's a wiki, it's a fast CMS! ([Source code](https://github.com/TehShrike/noddity)) `WTFPL` `Nodejs`
   * [PluXml](http://www.pluxml.org/) - XML-based blog/CMS platform ([Source code](https://github.com/pluxml/PluXml)) `GPL` `PHP`
-  * [Wordpress](https://wordpress.org/) - Create a beautiful website or blog. ([Source code](https://github.com/WordPress/WordPress)) `GPLv2`
+  * [WordPress](https://wordpress.org/) - Create a beautiful website or blog. ([Source code](https://github.com/WordPress/WordPress)) `GPLv2`
  
  
 
@@ -205,7 +205,7 @@ CMS are a practical way to setup a website with many features. CMS often come wi
   * [Pico](http://picocms.org/) - A stupidly simple, blazing fast, flat file CMS. ([Source code](https://github.com/gilbitron/Pico)) `MIT`
   * [SilverStripe](https://www.silverstripe.org) - easy to use CMS with powerful MVC framework underlying. ([Demo](http://demo.silverstripe.org/), [Source code](https://github.com/silverstripe)) `BSD` `PHP`
   * [SPIP](http://www.spip.net/fr) - Publication system for the Internet. 
-  * [Wordpress](https://wordpress.org/) - The worlds most-used blogging and CMS engine. ([Source code mirror](https://github.com/WordPress/WordPress)) `GPLv2`
+  * [WordPress](https://wordpress.org/) - The worlds most-used blogging and CMS engine. ([Source code mirror](https://github.com/WordPress/WordPress)) `GPLv2`
   
 ### E-commerce
 
